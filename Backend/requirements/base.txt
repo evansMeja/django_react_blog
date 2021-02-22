@@ -1,0 +1,16 @@
+Django
+django-allauth
+django-cors-headers
+django-rest-auth
+djangorestframework
+djangorestframework-jwt
+facebook-sdk
+idna
+oauthlib
+PyJWT
+python3-openid
+pytz
+requests
+requests-oauthlib
+six
+urllib3
